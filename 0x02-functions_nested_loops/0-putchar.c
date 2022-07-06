@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - print the word "_putchar"
- * 
  * Return: Always 0 (sucess)
  */
 
