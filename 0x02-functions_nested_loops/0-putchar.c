@@ -1,4 +1,4 @@
-#include <unistd.h> 
+#include <stdio.h> 
 #include "main.h"
 
 /**
@@ -7,14 +7,7 @@
  * Return: Always 0 (sucess)
  */
 
-int main(void)
 {
-	int i;
-	char p[] = "_putchar"
-	
-	for (i=0; i<9; i++)
-		{
-		_putchar(p[i]);
-		}
-		_putchar('\n')
+int main(void)
+	printf("_putchar.\n");
 	return (0);
